@@ -1,7 +1,7 @@
 # float
 
 * **Version:** 0.1-2
-* **Status:** [![Linux Build Status via Travis-CI](https://travis-ci.org/snoweye/float.png)](https://travis-ci.org/snoweye/float) [![Windows build status via AppVeyor](https://ci.appveyor.com/api/projects/status/github/wrathematics/float?branch=master&svg=true)](https://ci.appveyor.com/project/wrathematics/float/branch/master)
+* **Status:** [![Linux Build Status via Travis-CI](https://travis-ci.org/snoweye/float.png)](https://travis-ci.org/snoweye/float) [![Windows build status via AppVeyor](https://ci.appveyor.com/api/projects/status/github/snoweye/float?branch=master&svg=true)](https://ci.appveyor.com/project/snoweye/float/branch/master)
 * **License:** [BSD 2-Clause](http://opensource.org/licenses/BSD-2-Clause)
 * **Author:** Drew Schmidt
 * **Project home**: https://github.com/wrathematics/float
