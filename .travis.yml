@@ -14,7 +14,8 @@ script:
   - mv ./* ../tmp
   - mv ../tmp ./
   - R CMD build --no-build-vignettes ./tmp
-  - R CMD check float_*.tar.gz
+  - R CMD check --ignore-vignettes --as-cran float_*.tar.gz
+  - cat float.Rcheck/00install.out
 
 notifications:
   email:
