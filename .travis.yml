@@ -5,9 +5,9 @@ os:
   - osx
 
 install:
-  - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
-  - chmod 755 ./travis-tool.sh
-  - ./travis-tool.sh bootstrap
+  # - curl -OL http://raw.github.com/craigcitro/r-travis/master/scripts/travis-tool.sh
+  # - chmod 755 ./travis-tool.sh
+  # - ./travis-tool.sh bootstrap
 
 script:
   - mkdir ../tmp
